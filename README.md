@@ -25,8 +25,8 @@ This is a complete end-to-end data analyst portfolio project simulating a real-w
 Transform 250 raw sales transactions into actionable business intelligence that drives revenue growth, reduces churn, and optimises inventory decisions.
 ## Business Problem
 An e-commerce business is experiencing inconsistent monthly revenue, a 30.8% order cancellation rate, and uncertain inventory levels across 10 product SKUs. Leadership needs answers to five core questions:
-| Business | QuestionAnalysis Applied |
-|-----------|--------------------------|
+| Business Question | Analysis Applied |
+|-------------------|------------------|
 | 1. Which products and categories drive the most revenue? | SQL Aggregation + Power BI Bar Charts |
 | 2. Who are our most valuable customers and how do we retain them? | Customer Segmentation + RFM Analysis |
 | 3. Is our revenue trending up or down — and what should we expect next month? | Moving Average + Growth Rate Forecasting |

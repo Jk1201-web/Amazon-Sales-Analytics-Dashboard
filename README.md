@@ -1,7 +1,7 @@
 # Amazon Sales Analytics Dashboard
 ## End-to-End Data Analyst Portfolio Project
 SQL · Power BI · Customer Segmentation · Sales Forecasting · A/B Testing · Inventory Analytics
-## 250 Orders  |  9 Months of Data  |  $243,845 Revenue Analysed  |  15+ SQL Queries  |  8 Dashboard Visuals
+### 250 Orders  |  9 Months of Data  |  $243,845 Revenue Analysed  |  15+ SQL Queries  |  8 Dashboard Visuals
 # Table of Contents
 1. Project Overview
 2. Business Problem
@@ -25,8 +25,13 @@ This is a complete end-to-end data analyst portfolio project simulating a real-w
 Transform 250 raw sales transactions into actionable business intelligence that drives revenue growth, reduces churn, and optimises inventory decisions.
 ## Business Problem
 An e-commerce business is experiencing inconsistent monthly revenue, a 30.8% order cancellation rate, and uncertain inventory levels across 10 product SKUs. Leadership needs answers to five core questions:
-#Business QuestionAnalysis Applied1Which products and categories drive the most revenue?SQL Aggregation + Power BI Bar Charts2Who are our most valuable customers and how do we retain them?Customer Segmentation + RFM Analysis3Is our revenue trending up or down — and what should we expect next month?Moving Average + Growth Rate Forecasting4Which products are at risk of going out of stock?Inventory Risk Classification5Does our new checkout experience convert better than the old one?A/B Hypothesis Testing
-
+# | Business | QuestionAnalysis Applied |
+  |-----------|--------------------------|
+  | 1. Which products and categories drive the most revenue? | SQL Aggregation + Power BI Bar Charts |
+  | 2. Who are our most valuable customers and how do we retain them? | Customer Segmentation + RFM Analysis |
+  | 3. Is our revenue trending up or down — and what should we expect next month? | Moving Average + Growth Rate Forecasting |
+  | 4. Which products are at risk of going out of stock? | Inventory Risk Classification |
+  | 5. Does our new checkout experience convert better than the old one? | A/B Hypothesis Testing |
 
 
 
